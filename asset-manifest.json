@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/MerrymealFrontend/static/css/main.7aa89a7c.css",
-    "main.js": "/MerrymealFrontend/static/js/main.372c0f85.js",
-    "static/media/donate.jpg": "/MerrymealFrontend/static/media/donate.6f54c1a840f8b8d5adc5.jpg",
-    "static/media/contact.png": "/MerrymealFrontend/static/media/contact.a824c7307f56b42b3e6d.png",
-    "static/media/login.jpeg": "/MerrymealFrontend/static/media/login.d3a7de324b645ffee97a.jpeg",
-    "static/media/free order.png": "/MerrymealFrontend/static/media/free order.9ca6c8c9f1840ac969f1.png",
-    "static/media/banner.avif": "/MerrymealFrontend/static/media/banner.8d3fb923525e9c69cd02.avif",
-    "static/media/merry meal.png": "/MerrymealFrontend/static/media/merry meal.340c9dc8ab14c0a9972a.png",
-    "static/media/caregiver.png": "/MerrymealFrontend/static/media/caregiver.bca3b9d1d5f728562016.png",
-    "static/media/caregiver.avif": "/MerrymealFrontend/static/media/caregiver.1663820ecfa96926bd0c.avif",
-    "static/media/home.jpeg": "/MerrymealFrontend/static/media/home.215a398d4ae5405bb84e.jpeg",
-    "static/media/food.jpeg": "/MerrymealFrontend/static/media/food.f1585d7e99f3ec0b9b14.jpeg",
-    "static/media/register.jpeg": "/MerrymealFrontend/static/media/register.f3917047d677d13ef8e8.jpeg",
-    "static/media/volunteer.jpeg": "/MerrymealFrontend/static/media/volunteer.0064bd7fbf0ea6d00aed.jpeg",
-    "index.html": "/MerrymealFrontend/index.html",
-    "main.7aa89a7c.css.map": "/MerrymealFrontend/static/css/main.7aa89a7c.css.map",
-    "main.372c0f85.js.map": "/MerrymealFrontend/static/js/main.372c0f85.js.map"
+    "main.css": "/MerrymealDeploy/static/css/main.6ed44c8c.css",
+    "main.js": "/MerrymealDeploy/static/js/main.92e532c5.js",
+    "static/media/donate.jpg": "/MerrymealDeploy/static/media/donate.6f54c1a840f8b8d5adc5.jpg",
+    "static/media/contact.png": "/MerrymealDeploy/static/media/contact.a824c7307f56b42b3e6d.png",
+    "static/media/login.jpeg": "/MerrymealDeploy/static/media/login.d3a7de324b645ffee97a.jpeg",
+    "static/media/free order.png": "/MerrymealDeploy/static/media/free order.9ca6c8c9f1840ac969f1.png",
+    "static/media/banner.avif": "/MerrymealDeploy/static/media/banner.8d3fb923525e9c69cd02.avif",
+    "static/media/merry meal.png": "/MerrymealDeploy/static/media/merry meal.340c9dc8ab14c0a9972a.png",
+    "static/media/caregiver.png": "/MerrymealDeploy/static/media/caregiver.bca3b9d1d5f728562016.png",
+    "static/media/caregiver.avif": "/MerrymealDeploy/static/media/caregiver.1663820ecfa96926bd0c.avif",
+    "static/media/home.jpeg": "/MerrymealDeploy/static/media/home.215a398d4ae5405bb84e.jpeg",
+    "static/media/food.jpeg": "/MerrymealDeploy/static/media/food.f1585d7e99f3ec0b9b14.jpeg",
+    "static/media/register.jpeg": "/MerrymealDeploy/static/media/register.f3917047d677d13ef8e8.jpeg",
+    "static/media/volunteer.jpeg": "/MerrymealDeploy/static/media/volunteer.0064bd7fbf0ea6d00aed.jpeg",
+    "index.html": "/MerrymealDeploy/index.html",
+    "main.6ed44c8c.css.map": "/MerrymealDeploy/static/css/main.6ed44c8c.css.map",
+    "main.92e532c5.js.map": "/MerrymealDeploy/static/js/main.92e532c5.js.map"
   },
   "entrypoints": [
-    "static/css/main.7aa89a7c.css",
-    "static/js/main.372c0f85.js"
+    "static/css/main.6ed44c8c.css",
+    "static/js/main.92e532c5.js"
   ]
 }
