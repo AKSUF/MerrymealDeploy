@@ -1,5 +1,5 @@
 {
-    "homepage": "https://aksuf.github.io/MerrymealFrontend/",
+    "homepage": "https://aksuf.github.io/MerrymealDeploy/",
     "proxy": "http://localhost:8080/",
     "name": "project-merry-meal",
     "version": "0.1.0",

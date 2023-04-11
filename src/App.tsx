@@ -202,7 +202,7 @@ function App() {
 
 {/* tyrtyreyre */}
 <Route
-          path="/MerrymealFrontend"
+          path="/MerrymealDeploy"
           element={<Home role={auth.role.length > 0 ? auth.role[0] : ""} />}
         >
 
